@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply font-inter text-gray-900 scroll-smooth;
+  }
+  
+  body {
+    @apply bg-white;
+  }
+  
+  /* Make sidebar stick to left on large screens */
+  @media (min-width: 1024px) {
+    main {
+      @apply pl-20;
+    }
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    @apply w-2;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-gray-100;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-gray-300 rounded-full hover:bg-gray-400;
+  }
+  
+  /* Improve form elements */
+  input, textarea {
+    @apply appearance-none;
+  }
+
+  /* Fix for smooth scrolling with fixed header */
+  html {
+    scroll-padding-top: 5rem;
+  }
+}

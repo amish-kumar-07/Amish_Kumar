@@ -13,11 +13,11 @@ export const projectsData: Project[] = [
   {
     id: 2,
     title: 'Portfolio Website',
-    description: 'A clean, modern portfolio website designed and developed for a photographer to showcase their work.',
+    description: 'A modern and responsive portfolio website built with React, Tailwind CSS, and Vite. It highlights my skills, projects, and experiences in a clean layout. The Node.js backend supports dynamic content and ensures future scalability, making it a professional hub for showcasing my work.',
     image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    technologies: ['React', 'Tailwind CSS', 'Framer Motion'],
-    githubUrl: 'https://github.com',
-    liveUrl: 'https://example.com',
+    technologies: ['React', 'Tailwind CSS', 'Vite','Node Js'],
+    githubUrl: 'https://github.com/amish-kumar-07/Amish_Kumar',
+    liveUrl: 'amish-kumar-2l80p90a4-amishs-projects-26aec20d.vercel.app',
   },
   {
     id: 3,

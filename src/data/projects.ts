@@ -17,7 +17,7 @@ export const projectsData: Project[] = [
     image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     technologies: ['React', 'Tailwind CSS', 'Vite','Node Js'],
     githubUrl: 'https://github.com/amish-kumar-07/Amish_Kumar',
-    liveUrl: 'amish-kumar-2l80p90a4-amishs-projects-26aec20d.vercel.app',
+    liveUrl: 'amish-kumar-eckvlwey5-amishs-projects-26aec20d.vercel.app',
   },
   {
     id: 3,

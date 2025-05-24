@@ -21,7 +21,7 @@ export const projectsData: Project[] = [
   },
   {
     id: 3,
-    title: 'Full Stack Product Management Web App',
+    title: 'Product Management Web App',
     description: 'A full-stack product management web application built using Next.js for the frontend and NestJS with MongoDB or Spring Boot with PostgreSQL for the backend. The app includes JWT-based user authentication, product CRUD functionality, and filtering, sorting, and search features.',
     image: 'https://images.pexels.com/photos/273230/pexels-photo-273230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     technologies: ['Next.js', 'NestJS','PostgreSQL', 'JWT', 'Tailwind CSS'],

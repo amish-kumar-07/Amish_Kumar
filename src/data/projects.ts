@@ -17,7 +17,7 @@ export const projectsData: Project[] = [
     image: 'https://images.pexels.com/photos/7190953/pexels-photo-7190953.jpeg',
     technologies: ['PostgreSQL', 'Tailwind CSS', 'Next.js','Auth.js'],
     githubUrl: 'https://github.com/amish-kumar-07/Image-Finder',
-    liveUrl: 'https://product-management-web-app-ten.vercel.app/',
+    liveUrl: 'https://image-finder-ecru-phi.vercel.app',
   },
   {
     id: 3,
@@ -26,6 +26,6 @@ export const projectsData: Project[] = [
     image: 'https://images.pexels.com/photos/273230/pexels-photo-273230.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
     technologies: ['Next.js', 'NestJS','PostgreSQL', 'JWT', 'Tailwind CSS'],
     githubUrl: 'https://github.com/amish-kumar-07/Product-Management-Web-App',
-    liveUrl: 'https://product-management-web-app-l3qr.vercel.app/',
+    liveUrl: 'https://product-management-web-app-ten.vercel.app',
   },
 ];

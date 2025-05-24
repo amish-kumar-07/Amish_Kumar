@@ -6,7 +6,7 @@ const Sidebar = () => {
     { icon: <Linkedin size={20} />, href: 'https://www.linkedin.com/in/amish-kumar-singh-78a454243/', label: 'LinkedIn' },
     { icon: <Twitter size={20} />, href: 'https://x.com/am732389', label: 'Twitter' },
     { icon: <Youtube size={20} />, href: 'https://www.youtube.com/@arsen3468', label: 'YouTube' },
-    { icon: <BookOpen size={20} />, href: 'https://drive.google.com/file/d/1BCoDF7PNpLJXmuNca7pBz9bAwmgO8g1A', label: 'Resume' },
+    { icon: <BookOpen size={20} />, href: 'https://drive.google.com/file/d/1keXymtY2tZUTR-KlCe1wGUGMoAPeqf6s/view?usp=sharing', label: 'Resume' },
   ];
 
   return (

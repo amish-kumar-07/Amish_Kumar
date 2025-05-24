@@ -12,12 +12,12 @@ export const projectsData: Project[] = [
   },
   {
     id: 2,
-    title: 'Portfolio Website',
-    description: 'A modern and responsive portfolio website built with React, Tailwind CSS, and Vite. It highlights my skills, projects, and experiences in a clean layout. The Node.js backend supports dynamic content and ensures future scalability, making it a professional hub for showcasing my work.',
-    image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    technologies: ['React', 'Tailwind CSS', 'Vite','Node Js'],
-    githubUrl: 'https://github.com/amish-kumar-07/Amish_Kumar',
-    liveUrl: 'amish-kumar-eckvlwey5-amishs-projects-26aec20d.vercel.app',
+    title: 'Image Finder App',
+    description: 'Image Finder is a full-stack web app that lets users search for high-quality photos using the Unsplash API, log in securely with Auth.js, and save or delete their favorite images. Built with Next.js 14 App Router, Tailwind CSS, TypeScript, Drizzle ORM, and Neon PostgreSQL, it combines modern UI design with solid backend functionality',
+    image: 'https://images.pexels.com/photos/7190953/pexels-photo-7190953.jpeg',
+    technologies: ['PostgreSQL', 'Tailwind CSS', 'Next.js','Auth.js'],
+    githubUrl: 'https://github.com/amish-kumar-07/Image-Finder',
+    liveUrl: 'https://image-finder-ecru-phi.vercel.app',
   },
   {
     id: 3,

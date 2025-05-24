@@ -17,7 +17,7 @@ export const projectsData: Project[] = [
     image: 'https://images.pexels.com/photos/7190953/pexels-photo-7190953.jpeg',
     technologies: ['PostgreSQL', 'Tailwind CSS', 'Next.js','Auth.js'],
     githubUrl: 'https://github.com/amish-kumar-07/Image-Finder',
-    liveUrl: 'https://product-management-web-app-nu.vercel.app/',
+    liveUrl: 'https://product-management-web-app-ten.vercel.app/',
   },
   {
     id: 3,

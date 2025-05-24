@@ -20,7 +20,7 @@ const Projects = () => {
         </div>
 
         <div className="mt-16 text-center">
-          <Button href="https://github.com" primary={false} className="font-medium">
+          <Button href="https://github.com/amish-kumar-07" primary={false} className="font-medium">
             View More Projects
           </Button>
         </div>
